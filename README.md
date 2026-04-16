@@ -1,27 +1,34 @@
 # 🎬 Cinema Audience Forecasting
 
-## 📌 Problem Statement
-Predict daily theatre audience counts across multiple locations using machine learning.
+## 📌 Overview
+This project predicts daily theatre audience counts across multiple locations using machine learning techniques.
 
-## 🛠 Tools & Technologies
+## 🎯 Objective
+To forecast audience turnout and identify patterns that help optimize theatre operations and planning.
+
+## 🛠 Technologies Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib
 
-## 📊 Approach
-- Data Cleaning and Preprocessing
-- Feature Engineering (Date-based features)
-- Model Building using Random Forest
-- Model Evaluation using MAE
+## 📊 Workflow
+1. Data Cleaning and Preprocessing  
+2. Feature Engineering (date-based features)  
+3. Model Training (Random Forest)  
+4. Model Evaluation (MAE)  
+5. Visualization of Actual vs Predicted  
 
 ## 📈 Results
-The model successfully captured patterns in audience trends and provided accurate predictions.
+The model successfully captured audience trends and provided reliable predictions.
 
 ## 💡 Key Insights
-- Audience varies based on day of week and seasonality
-- Certain periods show higher footfall trends
+- Audience varies significantly by weekday and seasonal trends  
+- Peak periods can be predicted for better planning  
 
 ## 🚀 Future Improvements
-- Use advanced models like XGBoost
-- Add more features like holidays/events
+- Implement XGBoost / advanced models  
+- Include external factors like holidays/events  
+
+## 🔗 Author
+Muneeshwari N
